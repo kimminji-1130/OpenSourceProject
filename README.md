@@ -1,7 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 # OpenSourceProject
 # <ChatGPT>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
 안동대학교 컴퓨터 공학과 학번 kimminji-1130
 ## 1. 개요 : 어떤 소프트웨어인지 대략적인 소개
@@ -38,3 +38,5 @@
 > 인용문
 
 #태그입력
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
