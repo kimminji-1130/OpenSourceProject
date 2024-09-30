@@ -1,14 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 # OpenSourceProject
 # <ChatGPT>
 #### 안동대학교 컴퓨터 공학과 학번 kimminji-1130
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="kimminji-1130"><img src="https://previews.123rf.com/images/orla/orla1402/orla140200209/25849947-3d-%EC%82%AC%EB%9E%8C-%EC%82%AC%EB%9E%8C-%EC%82%AC%EB%9E%8C-%EC%95%84%EC%9D%B4%EC%BD%98-%EC%82%AC%EB%9E%8C.jpg" width="100px;" alt=""/><br /><sub><b> 김민지 </b></sub></a><br /></td>
+      <td align="center"><a href="kimminji-1130"><img src="https://img.freepik.com/premium-psd/woman-web-developer-3d-icon-premium-psd_418302-3198.jpg" width="100px;" alt=""/><br /><sub><b> 김민지 </b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
+
 ## 1. 개요 : ChatGPT소개
 ChatGPT는 텍스트 기반의 대화형 인공지능 모델로, 사용자의 입력을 바탕으로 질문에 답하거나 다양한 작업을 수행합니다. 다양한 산업에서 사용될 수 있으며, 코드 작성, 글쓰기, 아이디어 제안, 고객 지원 등 여러 방면에서 활용되고 있습니다.
 
