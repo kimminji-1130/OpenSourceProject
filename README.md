@@ -6,10 +6,20 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="kimminji-1130"><img src="https://img.freepik.com/premium-psd/woman-web-developer-3d-icon-premium-psd_418302-3198.jpg" width="100px;" alt=""/><br /><sub><b> 김민지 </b></sub></a><br /></td>
+      <td align="center" style="border:none;">
+        <a href="https://github.com/kimminji-1130">
+          <img src="https://img.freepik.com/premium-psd/woman-web-developer-3d-icon-premium-psd_418302-3198.jpg" width="120px" style="border-radius:50%;" alt="Profile Image"/>
+          <br />
+          <sub style="font-size:14px;"><b>김민지</b></sub>
+        </a>
+        <br />
+        <a href="https://www.linkedin.com/in/kimminji-1130"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="LinkedIn"/></a>
+        <a href="mailto:kimminji@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20px" alt="Email"/></a>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 ## 1. 개요 : ChatGPT소개
 ChatGPT는 텍스트 기반의 대화형 인공지능 모델로, 사용자의 입력을 바탕으로 질문에 답하거나 다양한 작업을 수행합니다. 다양한 산업에서 사용될 수 있으며, 코드 작성, 글쓰기, 아이디어 제안, 고객 지원 등 여러 방면에서 활용되고 있습니다.
