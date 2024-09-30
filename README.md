@@ -1,5 +1,6 @@
 # OpenSourceProject
 # <ChatGPT>
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 안동대학교 컴퓨터 공학과 학번 kimminji-1130
 ## 1. 개요 : 어떤 소프트웨어인지 대략적인 소개
 ## 2. 라이선스 : 회사 및 가격(예: 오토캐드 250만원/연) 또는 오픈소스(예: Apach 2.0) 등 
