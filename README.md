@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+
 # <ChatGPT>
 #### 안동대학교 컴퓨터 공학과 B202400165 kimminji-1130
 <table>
