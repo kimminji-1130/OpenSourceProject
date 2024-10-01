@@ -1,21 +1,5 @@
 # ChatGPT
-#### 안동대학교 컴퓨터 공학과 B202400165 kimminji-1130
-<table>
-  <tbody>
-    <tr>
-      <td align="center" style="border:none;">
-        <a href="https://github.com/kimminji-1130">
-          <img src="https://img.freepik.com/premium-psd/woman-web-developer-3d-icon-premium-psd_418302-3198.jpg" width="120px" style="border-radius:50%;" alt="Profile Image"/>
-          <br />
-          <sub style="font-size:14px;"><b>김민지</b></sub>
-        </a>
-        <br />
-        <a href="https://www.linkedin.com/in/kimminji-1130"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="LinkedIn"/></a>
-        <a href="mailto:kimminji@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20px" alt="Email"/></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### 안동대학교 컴퓨터 공학과 김민지 B202400165 kimminji-1130
 
 
 ## 1. 개요 : ChatGPT소개
@@ -43,6 +27,8 @@ ChatGPT는 텍스트 기반의 대화형 인공지능 모델로, 사용자의 �
 ## 3. 주요 기능
 
 ### 1. 코드 작성 및 디버깅
+<img src="https://github.com/user-attachments/assets/2f5bfd5c-e2ab-4631-8db8-e8785d515c01" alt="description" width="400"/>
+
 - **설명**: 여러 프로그래밍 언어를 이해하고, 이를 기반으로 코드 작성을 지원합니다.
 - **기능**: 
   - 특정 기능 구현을 위한 코드 제공
@@ -55,6 +41,9 @@ ChatGPT는 텍스트 기반의 대화형 인공지능 모델로, 사용자의 �
 - **예시 질문**: "양자 역학이란 무엇인가?"에 대한 이론의 기본 개념 및 응용 설명.
 
 ### 3. AI 이미지 생성
+
+<img src="https://github.com/user-attachments/assets/e02854b0-0492-453a-9375-7b260fab1526" alt="description" width="300"/>
+
 - **설명**: 사용자가 제공한 텍스트를 바탕으로 이미지를 생성하는 기능입니다.
 - **활용 예시**: 광고, 블로그, 소셜 미디어 콘텐츠 제작.
 - **기능**: 원하는 이미지 스타일이나 주제를 명시하여 맞춤형 이미지 생성.
